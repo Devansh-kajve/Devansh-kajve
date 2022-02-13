@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a fully functional e-commerce Project
-- 🌱 Currently learning Reactjs, Nodejs, about web3 and blockchains
+- 🌱 Learning Reactjs, Nodejs, about web3 and blockchains
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 Reach me at: devanshkajve123@gmail.com
 
