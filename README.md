@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a fully functional e-commerce Project
-- 🌱 Learning Reactjs, Nodejs, about web3 and blockchains
+- 🔭 I’m currently working on a 3D avatar Project
+- 🌱 Learning Solidity, Reactjs, more about web3 and blockchains
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 Reach me at: devanshkajve123@gmail.com
 
