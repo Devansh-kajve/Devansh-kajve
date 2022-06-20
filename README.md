@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 Reach me at: devanshkajve123@gmail.com
 
-- ⚡ Fun fact: This Profile is still under work, just wait till I complete it
+- ⚡ This Profile is still under work
 
