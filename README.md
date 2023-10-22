@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Metaverse project - https://github.com/Devansh-kajve/Samsara
-- 🌱 Learning Solidity, Reactjs, more about web3 and blockchains
+
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 Reach me at: devanshkajve123@gmail.com
 
